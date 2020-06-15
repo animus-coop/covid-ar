@@ -3,7 +3,7 @@
 
 🚀 Visualizador ultra liviano y rápido _(tan solo 20KB gzipped)_ de COVID-19 en Argentina.
 
-Demo: coronavirus.animus.coop
+Demo: [coronavirus.animus.coop](https://coronavirus.animus.coop)
 
 Realizado únicamente con 2 dependencias: [Svelte](https://svelte.dev) y [Bulma](https://bulma.io).
 
