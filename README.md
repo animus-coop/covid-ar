@@ -5,7 +5,7 @@
 
 Demo: coronavirus.animus.coop
 
-Realizado únicamente 2 dependencias: [Svelte](https://svelte.dev) y [Bulma](https://picturepan2.github.io/spectre).
+Realizado únicamente con 2 dependencias: [Svelte](https://svelte.dev) y [Bulma](https://bulma.io).
 
 Este proyecto fue hecho para la visualización de la información pública sobre el estado de COVID-19 en Argentina por provincia.
 
